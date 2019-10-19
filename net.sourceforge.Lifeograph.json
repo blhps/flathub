@@ -101,6 +101,7 @@
         {
             "name": "lifeograph",
             "buildsystem": "meson",
+            "config-opts": [ "--buildtype=release" ],
             "sources": [
                 {
                     "type": "archive",
